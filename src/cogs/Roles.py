@@ -69,6 +69,7 @@ class Roles(commands.Cog):
                         "angell",
                         "aria",
                         "azevedo",
+                        "alkhowaiter",
                         "bagci",
                         "baker",
                         "bassiouni",
