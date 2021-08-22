@@ -65,6 +65,7 @@ class Roles(commands.Cog):
                 professor_list = set(
                     [
                         "ahmed",
+                        "amoruso",
                         "angell",
                         "aria",
                         "azevedo",
