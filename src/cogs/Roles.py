@@ -154,6 +154,7 @@ class Roles(commands.Cog):
                         "raffel",
                         "roberts",
                         "applen",
+                        "muhs"
                     ]
                 )
 
