@@ -136,7 +136,7 @@ class Administration(commands.Cog):
                         f"Created: {lower_name} channel and {lower_name} role"
                     )
                 else:
-                    category = discord.utils.get(context.guild.categories, name="Classes 1")
+                    category = discord.utils.get(context.guild.categories, name="Classes 2")
                     channel = await context.guild.create_text_channel(
                         lower_name, overwrites=custom_settings, category=category
                     )
